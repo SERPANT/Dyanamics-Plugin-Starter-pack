@@ -1,0 +1,11 @@
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\OrganizationName.Dynamics.Plugin.dll
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\OrganizationName.Dynamics.Plugin.pdb
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\Microsoft.IdentityModel.dll
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+E:\voltron\HopeLink.Dynamics.Plugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+E:\voltron\HopeLink.Dynamics.Plugin\obj\Debug\OrganizationName.Dynamics.Plugin.csproj.CoreCompileInputs.cache
+E:\voltron\HopeLink.Dynamics.Plugin\obj\Debug\OrganizationName.Dynamics.Plugin.csproj.CopyComplete
+E:\voltron\HopeLink.Dynamics.Plugin\obj\Debug\OrganizationName.Dynamics.Plugin.dll
+E:\voltron\HopeLink.Dynamics.Plugin\obj\Debug\OrganizationName.Dynamics.Plugin.pdb

@@ -1,0 +1,21 @@
+﻿<filter>
+  <entities>
+    <entity servicename="Accounts">account</entity>
+    <entity servicename="Contacts">contact</entity>
+    <entity servicename="Opportunities">opportunity</entity>
+    <entity servicename="Quotes">quote</entity>
+    <entity servicename="HouseHold">OrganizationName_household</entity>
+    <entity servicename="Salesorders">salesorder</entity>
+    <entity servicename="Systemusers">systemuser</entity>
+    <entity servicename="EnrollmentCase">OrganizationName_enrollmentcase</entity>
+    <entity servicename="HouseHoldClient">OrganizationName_householdclient</entity>
+    <entity servicename="Enrollment">OrganizationName_enrollment</entity>
+    <entity servicename="EnrollmentAssessment">OrganizationName_enrollmentassessment</entity>
+    <entity servicename ="FinancialDataInput">OrganizationName_financialdatainput</entity>
+    <entity servicename="Grant">OrganizationName_grant</entity>
+    <entity servicename ="AssessmentQuestion">OrganizationName_clientassessmentresponse</entity>
+    <entity servicename ="ClientFinancialInstance">OrganizationName_clientfinancialinstance</entity>
+    <entity servicename ="HouseHoldMultiplier">OrganizationName_householdmultiplier</entity>
+    <entity servicename ="EnrollmentPhaseStatus">OrganizationName_enrollmentphasestatus</entity>
+  </entities>
+</filter>

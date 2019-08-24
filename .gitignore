@@ -1,0 +1,11 @@
+/.vs
+/.vscode
+/HopeLink.Dynamics.Plugin/bin/
+/HopeLink.Dynamics.Plugin/obj/
+/HopeLink.Dynamics.Webresources/obj/
+/HopeLink.Dynamics.Webresources/bin/
+/Kipon.PluginRegistration/App.config
+/HopeLink.Dynamics.DataMigration/bin
+/HopeLink.Dynamics.DataMigration/obj
+/Kipon.PluginRegistration/obj
+/Kipon.PluginRegistration/bin

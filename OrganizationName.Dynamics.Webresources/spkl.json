@@ -1,0 +1,213 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "root": "Webresources/",
+      "solution": null,
+      "files": [
+        {
+          "uniquename": "new_/js/somefile.js",
+          "file": "new_\\js\\somefile.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseHold.FieldEvents.js",
+          "file": "/HL_/js/HouseHold/HouseHold.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hlsb_HouseHold.FieldEvents.js",
+          "file": "/HL_/js/HouseHold/HouseHold.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hlsb_HouseHold.FormEvents.js",
+          "file": "/HL_/js/HouseHold/HouseHold.FormEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseHold.FormEvents.js",
+          "file": "/HL_/js/HouseHold/HouseHold.FormEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_env.js",
+          "file": "/HL_/constants/env.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_Contact.Constants.js",
+          "file": "/HL_/js/Contact/Contact.Constants.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_Contact.FieldEvents.js",
+          "file": "/HL_/js/Contact/Contact.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseHold.Constants.js",
+          "file": "/HL_/js/HouseHold/HouseHold.Constants.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseHoldClient.Constants.js",
+          "file": "/HL_/js/HouseHoldClient/HouseHoldClient.Constants.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseHoldClient.FieldEvents.js",
+          "file": "/HL_/js/HouseHoldClient/HouseHoldClient.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_fields.js",
+          "file": "/HL_/constants/fields.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_Contact.FormEvents.js",
+          "file": "/HL_/js/Contact/Contact.FormEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_operation.js",
+          "file": "/HL_/utils/operation.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentAssessment.Constants.js",
+          "file": "/HL_/js/EnrollmentAssessment/EnrollmentAssessment.Constants.js",
+          "description": "Enrollment assessment constant",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentAssessment.FormEvents.js",
+          "file": "/HL_/js/EnrollmentAssessment/EnrollmentAssessment.FormEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentAssessmentEmployment.GridEvents.js",
+          "file": "/HL_/js/EnrollmentAssessment/EnrollmentAssessmentEmployment.GridEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentAssessmentFinancial.FieldEvents.js",
+          "file": "/HL_/js/EnrollmentAssessment/EnrollmentAssessmentFinancial.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentAssessmentHousing.FieldEvents.js",
+          "file": "/HL_/js/EnrollmentAssessment/EnrollmentAssessmentHousing.FieldEvents.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_Utility.Http.js",
+          "file": "/HL_/utils/Utility.Http.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentCase.Constants.js",
+          "file": "/HL_/js/EnrollmentCase/EnrollmentCase.Constants.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_Enrollment.Service.js",
+          "file": "/HL_/services/Enrollment.Service.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentCase.Service.js",
+          "file": "/HL_/services/EnrollmentCase.Service.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentPhaseStatus.Service.js",
+          "file": "/HL_/services/EnrollmentPhaseStatus.Service.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_HouseholdClient.Service.js",
+          "file": "/HL_/services/HouseholdClient.Service.js",
+          "description": "",
+          "ts": null
+        },
+        {
+          "uniquename": "hl_EnrollmentStatus.Service.js",
+          "file": "/HL_/services/EnrollmentStatus.Service.js",
+          "description": "",
+          "ts": null
+        }
+      ]
+    }
+  ],
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "assemblypath": "bin\\Debug",
+      "classRegex": null
+    }
+  ],
+  "earlyboundtypes": [
+    {
+      "entities": "account,contact,quote",
+      "actions": "dev1_simpleaction",
+      "generateOptionsetEnums": true,
+      "generateGlobalOptionsets": false,
+      "generateStateEnums": true,
+      "filename": "EarlyBoundTypes.cs",
+      "classNamespace": "HopeLink.Dynamics.Webresources",
+      "serviceContextName": "XrmSvc"
+    }
+  ],
+  "solutions": [
+    {
+      "profile": "default,debug",
+      "solution_uniquename": "spkltestsolution",
+      "packagepath": "package",
+      "solutionpath": "solution_{0}_{1}_{2}_{3}.zip",
+      "packagetype": "unmanaged",
+      "increment_on_import": false,
+      "map": [
+        {
+          "map": "path",
+          "from": "PluginAssemblies\\**\\*.*",
+          "to": "..\\..\\Plugins\\bin\\**"
+        },
+        {
+          "map": "path",
+          "from": "WebResources\\*.*",
+          "to": "..\\..\\Webresources\\Webresources\\**"
+        },
+        {
+          "map": "path",
+          "from": "WebResources\\**\\*.*",
+          "to": "..\\..\\Webresources\\Webresources\\**"
+        }
+      ]
+    }
+  ]
+}
