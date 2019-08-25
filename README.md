@@ -1,7 +1,7 @@
 # Dyanamics-Plugin-Starter-pack
 A starter pack to get started with making plugin and web resource for microsoft dynamics 365 platform.
 
-__**Setting it up**__
+**_Setting it up_**
  * The first thing to do while setting up this starter pack is to change the name of both the solution and the projects based on your own prefrence.
    * Use find and replace feature to change all instances of OrganizationName to something else like HopeFundation.
    * Then go to properties of each project and update the assembly name and default name.
