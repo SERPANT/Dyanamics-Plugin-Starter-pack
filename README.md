@@ -21,7 +21,8 @@ A starter pack to get started with making plugin and web resource for microsoft 
    
    
 **_Plugin Development Overview_**
-   The basic skeleton for developing plugins has already been made. This includes the folder structure that need to be maintained to make development easier. Lets's go in detail about what each folder signifies. 
+
+The basic skeleton for developing plugins has already been made. This includes the folder structure that need to be maintained to make development easier. Lets's go in detail about what each folder signifies. 
    * Constants: This folder is used to maintain all the constants that are used in the application like error messages, option set values etc.
      * EntityFields: This folder maintains the logical fields of an entity.
      * OptionSets: This folder maintains the integer values of option set used in the dynamics.
