@@ -14,13 +14,13 @@ A starter pack to get started with making plugin and web resource for microsoft 
    * Also update the .dll location. This is the location of the .dll file that is created when you build OrganizationName.Dynamics.Plugin.
    
    
-  __**Register the plugins to dynamics**__
+**_Register the plugins to dynamics_**
    * One can easily register the plugins to dynamics with the help of the console application that already exist within this solution named Organizationname.PluginRegistration.
    * Just set it up as the startup project for the solution.
    * After setting up all the credentials in App.Config you just need to run the console application.
    
    
-  __**Plugin Development Overview**__
+**_Plugin Development Overview_**
    The basic skeleton for developing plugins has already been made. This includes the folder structure that need to be maintained to make development easier. Lets's go in detail about what each folder signifies. 
    * Constants: This folder is used to maintain all the constants that are used in the application like error messages, option set values etc.
      * EntityFields: This folder maintains the logical fields of an entity.
